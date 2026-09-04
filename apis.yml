@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.herojourney.club', status: 301, note: 'declared website redirects to https://vidafair.com/ — a different registrable domain (herojourney.club -> vidafair.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hero-journey-club.png
 name: Hero Journey Club
 description: 'Hero Journey Club is a company surfaced as a portfolio company of northzone and added to
